@@ -44,3 +44,4 @@ See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-
 # Quasar_00
 # Quasar_00
 # Quasar_00
+# Quasar_00
